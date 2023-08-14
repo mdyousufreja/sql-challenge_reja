@@ -22,3 +22,15 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 ## Data Modeling ##
 
 Inspected the CSV files, and then sketched an Entity Relationship Diagram (ER) of the tables. Created the sketch using a tool like QuickDBD [links](https://www.quickdatabasediagrams.com/)
+
+## Data Engineering ##
+
+1. Used the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
+
+   - Specified the data types, primary keys, foreign keys, and other constraints.
+
+   - For the primary keys, verified that the column is unique. Otherwise, created a composite keyLinks to an external       site., which takes two primary keys to uniquely identify a row.
+
+   - Created the tables in the correct order to handle the foreign keys.
+
+2. Imported each CSV file into its corresponding SQL table.
