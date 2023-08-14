@@ -12,3 +12,13 @@ For this project, you’ll design the tables to hold the data from the CSV files
 Downloaded the following files to get started:
 
 Module 9 Challenge [files](https://courses.bootcampspot.com/courses/3819/assignments/56681?module_item_id=999676)
+
+
+## Instructions ##
+
+This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
+
+
+## Data Modeling ##
+
+Inspected the CSV files, and then sketched an Entity Relationship Diagram (ER) of the tables. Created the sketch using a tool like QuickDBD [links](https://www.quickdatabasediagrams.com/)
